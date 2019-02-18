@@ -1,0 +1,6 @@
+name: BoneMealDisabler
+version: ${project.version}
+main: com.tucker.bonemealdisabler.BoneMealDisabler
+authors: [Tucker]
+description: BoneMealDisabler
+website: xeondev.com

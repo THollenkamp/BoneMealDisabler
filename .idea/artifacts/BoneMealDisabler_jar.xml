@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BoneMealDisabler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BoneMealDisabler_jar</output-path>
+    <root id="archive" name="BoneMealDisabler.jar">
+      <element id="module-output" name="BoneMealDisabler" />
+    </root>
+  </artifact>
+</component>
